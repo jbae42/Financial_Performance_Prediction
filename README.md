@@ -29,7 +29,8 @@ Highlighted findings are presented below:
 
 ## 3. Pre-processing Approaches and Modeling
 [1] Significnat Feature Selection
-Significant features were selected with SelectKBest method. Steps are shown in [this notebook.](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Approach%201.%20Significant%20Feature%20Selection/Approach%231a%20-%20Dimensionality%20Reduction.ipynb)
+Significant features were selected with SelectKBest method. Steps are shown in [this notebook.](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Approach%201.%20Significant%20Feature%20Selection/Approach%231a%20-%20Dimensionality%20Reduction.ipynb)\
+
 ![](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Plots/app1Features.png)
 ![](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Plots/heatmap.png)
 
@@ -43,6 +44,7 @@ Data were scaled using standard scaler. Detailed steps are shown in [this notebo
 
 [3] Removing Outliers and Nomalizing Data
 This approach gave the best model performance. Some of the common important features identified by models in this approach match with those from Approach 1.
+Detailed steps are shown in [this notebook.](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Approach%203.%20Outlier%20Removal%20and%20Data%20Normalization/Approach%233%20-%20Remove%20Outliers%20and%20Normalize%20Data.ipynb)
 
 ## 4. [Result Summary](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Result%20Summary.ipynb)
 The results show that Approach 3 gave the best scores for all models (Linear Regression, XGBoost, Gradient Boost, ADA Boost, and Random Forest Classifier).
