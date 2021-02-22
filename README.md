@@ -1,9 +1,8 @@
 # Financial_Performance_Prediction
 ## Project Overview
 * Objective: The objective of this project is to select the best model out of 5 classification and regression models to predict a 
-customer's capability to pay off the loan based on features such as income, education level, credit history, etc.\
-* Data Preprocessing: 3 approaches were used to pre-process the data set for modeling steps. 3 approaches that were used are 1. significant feature selection, 
-2. data scaling, and 3. removing outliers and normalizing data.
+customer's capability to pay off the loan based on features such as income, education level, credit history, etc.
+* Data Preprocessing: 3 approaches were used to pre-process the data set for modeling steps. 3 approaches that were used are 1. significant feature selection, 2. data scaling, and 3. removing outliers and normalizing data.
 * Model Performance: Linear Regression model and XGBoost performed with accuracy scores of 90.43%.
 Other models (Gradient_Boost, ADA Boost, and Random Forest Classifier) performed with higher than accuracy scores of 87%.\
 ![](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Plots/PerformanceResults.png)
