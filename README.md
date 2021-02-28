@@ -10,8 +10,8 @@ Other models (Gradient_Boost, ADA Boost, and Random Forest Classifier) performed
 ## Used Resources
 -**Python Version**: 3.8\
 -**Python Packages**: pandas, numpy, sklearn, matplotlib, seaborn, XGBoost, plotly\
--**Data Set**: Kaggle Loan Eligibility Data Set
--**Code Reference**: Reference cited in the respective file.\
+-**Data Set**: Kaggle Loan Eligibility Data Set\
+-**Code Reference**: Reference cited in the respective file.
 
 ## 1. [Data Cleaning](https://github.com/jbae42/Financial_Performance_Prediction/blob/main/Exploratory%20Data%20Analysis/Exploratory%20Data%20Analysis.ipynb)(Combined with Exploratory Data Analysis)
 The original data set contained missing data. Missing data were managed following the below steps:
